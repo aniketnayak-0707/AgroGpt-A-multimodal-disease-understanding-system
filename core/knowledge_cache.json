@@ -1,0 +1,77 @@
+{
+    "tomato___late_blight": {
+        "crop": "Tomato",
+        "disease": "Late Blight",
+        "causes": "Tomato blight (also called late blight because it occurs later in the season than \u201cearly blight\u201d) is caused by the oomycete phytophthora infestans, which have fungus-like qualities",
+        "treatment": "You can also apply neem oil or garlic spray as a fungicide",
+        "prevention": "In the fall, remember to: you can help prevent this disease in future years by practicing proper crop rotation"
+    },
+    "rice___sheath_blight": {
+        "crop": "Rice",
+        "disease": "Sheath Blight",
+        "causes": "In any case, the pathogen does not produce aerially dispersed spores; its dispersal is essentially dependent on hyphae running on plant tissues and producing new infections sheath blight has symptoms similar to stem rot and stemborer infestation",
+        "treatment": "The main management options available to minimize sheath blight include:  irri super bag   irri rice quality assessment kit   rice doctor   crop manager   leaf color chart   irri moisture meter   drying systems   harvesting systems   drying basics   harvesting costs   drying strategies   the solar bubble dryer   see more videos on the irri rkb youtube channel links media contact us you do not have access to www",
+        "prevention": "High seeding rate or close plant spacing, dense canopy, disease in the soil, sclerotia or infection bodies floating on the water, and growing of high yielding improved varieties also favor disease development"
+    },
+    "tomato___septoria_spot": {
+        "crop": "Tomato",
+        "disease": "Septoria Spot",
+        "causes": "Org overview septoria leaf spot is caused by a fungus, septoria lycopersici",
+        "treatment": "Depending on your treatment method, you may have a delay between spraying and harvest",
+        "prevention": "But prevention is an important secondary measure, as it stops it from happening at all"
+    },
+    "mango___anthracnose": {
+        "crop": "Mango",
+        "disease": "Anthracnose",
+        "causes": "In many regions, pre-harvest infections from organisms like fungi, viruses, bacteria, and nematodes have led to low mango harvests (chowdhury and rahim, 2009)",
+        "treatment": "None of the accessions tested was resistant, and commercial cultivars generally cannot deliver appropriate qualitative and quantitative yields under humid environmental conditions without regularly applying fungicide sprays (arauz, 2000)",
+        "prevention": "All mangoes grown for commercial purposes are susceptible, and a resistant cultivar for all strains is not presently available on the market"
+    },
+    "apple___scab": {
+        "crop": "Apple",
+        "disease": "Scab",
+        "causes": "Apple scab is caused by the fungus venturia inaequalis",
+        "treatment": "Effective control of apple scab involves applying fungicides and implementing cultural practices like proper sanitation and pruning",
+        "prevention": "If you\u2019re interested in gaining a deeper understanding of apple scab, its prevention, and treatment, read on"
+    },
+    "Apple   Scab": {
+        "crop": "Apple",
+        "disease": "  Scab",
+        "description": "Plant diseases humid-area gardeners suffer with plant disease more often than their arid-area counterparts, as high humidity encourages the kind of fungal and bacterial growth that leads to numerous plant diseases",
+        "cause": "Photo by peggychoucair from pixabay table of contents scab is a common issue affecting apple trees, caused by the fungus venturia inaequalis",
+        "remedy": "Effective control of apple scab involves applying fungicides and implementing cultural practices like proper sanitation and pruning",
+        "prevention": "Planting resistant cultivars is a great method to prevent apple scab in your garden or orchard"
+    },
+    "Grape   Black Rot": {
+        "crop": "Grape",
+        "disease": "  Black Rot",
+        "description": "There is black rot grape treatment, and, with some effort, you can defeat this merciless fungal disease",
+        "cause": "Black rot of grape (forma parthenocissi) on boston ivy (parthenocissus tricuspidata) black rot of grape; note, hardened, black mummified fruit typical black, scabby spots on green, unripe grapes (vitis) caused by black rot of grapes (arrested development) black, scabby spots on green, unripe grapes (vitis) and black, shriveled, mummified fruit close-up of spots on boston ivy (parthenocissus tricuspidata) caused by black rot of grape overview black rot, caused by the fungus guignardia bidwellii, is a serious disease of cultivated and wild grapes",
+        "remedy": "If leaves appear the following spring with new lesions, remove these immediately and start a spray treatment program with one of the above-listed fungicides",
+        "prevention": "Many gardeners would consider this year's crop a lost cause and work toward preventing a recurrence of the disease"
+    },
+    "Tomato   Late Blight": {
+        "crop": "Tomato",
+        "disease": "  Late Blight",
+        "description": "Fungal diseases tend to affect older leaves first, so prune them from the bottom up as your tomato plants grow",
+        "cause": "Tomato blight (also called late blight because it occurs later in the season than \u201cearly blight\u201d) is caused by the oomycete phytophthora infestans, which have fungus-like qualities",
+        "remedy": "You can also apply neem oil or garlic spray as a fungicide",
+        "prevention": "In the fall, remember to: you can help prevent this disease in future years by practicing proper crop rotation"
+    },
+    "Potato   Late Blight": {
+        "crop": "Potato",
+        "disease": "  Late Blight",
+        "description": "Microbe notes home \u00bb agricultural microbiology late blight is a serious fungal disease of plants belonging to the family solanaceae, especially potatoes and tomatoes",
+        "cause": "This fungus-like pathogen attacks foliage, as well as tubers and fruits, causing them to rot and making them inedible",
+        "remedy": "Use of fungicides- the control of the blight is accomplished by applying fungicides before infection which are applied in various ways- sanitation- destruction or proper disposal of potato tuber from pits and storehouses is one of the practical methods to reduce the incidence of the disease",
+        "prevention": "Add cultural practices: proper spacing, no overhead watering, sanitation, rotation"
+    },
+    "Rice   Healthy": {
+        "crop": "Rice",
+        "disease": "  Healthy",
+        "description": "Symptoms brown spot disease, caused by bipolaris oryzae, is characterized by the appearance of brown, circular spots on the leaves, which can coalesce under severe infection, reducing the photosynthetic area of the plant",
+        "cause": "However, rice production is severely affected by a wide range of diseases caused by fungi, bacteria, viruses, and nematodes",
+        "remedy": "Management to effectively reduce the incidence of false smut and protect both grain yield and quality, it is essential to integrate several management strategies, beginning by avoiding excessive nitrogen application to prevent dense and lush growth that favors fungal development, and at the booting stage, applying a fungicide such as propiconazole 25% ec at 1 ml per liter of water to ensure thorough coverage of the panicles and suppress infection, while overall integrating clean seeds, balanced fertilization, and this timely fungicide application provides the most effective control",
+        "prevention": "Management effective management of rice blast involves an integrated approach that combines the use of resistant varieties such as ir64 and swarna types, alongside balanced nitrogen application to prevent excessive vegetative growth, maintaining good field sanitation by removing infected stubbles and weeds, and ensuring proper crop spacing for aeration"
+    }
+}
